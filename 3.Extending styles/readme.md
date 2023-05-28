@@ -1,4 +1,4 @@
-## Extending styled
+## Extending styles
 
 Suppose we want to create a fancy button for our landing page. This button will only be used on the LandingPage. For
 this fancy button we want most of the styling of our regular button but we also want to add some custom styling to it
@@ -10,6 +10,7 @@ import StyledButton from './StyledButton';
 
 const FancyButton = styled(StyledButton) `
     background-image: linear-gradient(to right, #f6d365 0%, #fda085 100%);
+    border: none;
 `
 
 export default FancyButton;
@@ -42,7 +43,6 @@ code from both the files into Sbutton.styles.tsx
 >./components/SButtons/SButton.styles.tsx
 ```
 import styled from 'styled-components';
-import StyledButton from './StyledButton';
 
 export const FancyButton = styled(StyledButton) `
     background-image: linear-gradient(to right, #f6d365 0%, #fda085 100%);
