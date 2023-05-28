@@ -19,9 +19,9 @@ CSS for your component inside your Javascript code.
 Initially this is based on the [playlist](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgu-G08-7ovbN9EyhF_cltM) on styled-components by [Codevolution](https://www.youtube.com/@Codevolution) 
 
 To support him,
-📘 Courses - https://learn.codevolution.dev/
-💖 Support UPI - https://support.codevolution.dev/
-💖 Support PayPal - https://www.paypal.me/Codevolution
-💾 Github - https://github.com/gopinav
+* 📘 Courses - https://learn.codevolution.dev/
+* 💖 Support UPI - https://support.codevolution.dev/
+* 💖 Support PayPal - https://www.paypal.me/Codevolution
+* 💾 Github - https://github.com/gopinav
 
 I've just translated his videos to text while learning about styled-components myself. Also added more infomation about the topics covered in the playlist.
